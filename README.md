@@ -104,8 +104,6 @@ Data Sources → SQL Server → Python Backend → Machine Learning Models → S
 ### Reports
 ![Reports](screenshots/reports.png)
 
----
-
 ## Machine Learning Capabilities
 
 ### Failure Prediction

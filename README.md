@@ -1,5 +1,4 @@
-# industrial-service-intelligence-platform
-Enterprise Asset Management, Predictive Maintenance and Service Analytics Platform built with Streamlit, SQL Server and Machine Learning.
+
 # Industrial Service Intelligence Platform
 
 Enterprise-grade Asset Management, Predictive Maintenance, Revenue Analytics, and Service Intelligence Platform built using Streamlit, SQL Server, and Machine Learning.
